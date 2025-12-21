@@ -11,7 +11,7 @@ st.set_page_config(
 # --- 2. PROJECT URLS ---
 PROJECT_URLS = {
     "CSV Data Analyzer": "https://csv-data-analyzer-lisa-silva.streamlit.app/",
-    "Web Scraper": "https://web-scraper-lisa-silva.streamlit.app/",
+    "Web Scraper": "https://ai-powered-web-scraper.streamlit.app/",
     "Sentiment Analyzer": "https://online-review-sentiment-analyzer-lisa-silva.streamlit.app/",
     "Dark Triad Quiz": "https://dark-triad-detector-quiz-lisa-silva-v2.streamlit.app/",
     "Finance Tracker (Integration)": "https://finance-tracker-app-lisa-silva.streamlit.app/",
